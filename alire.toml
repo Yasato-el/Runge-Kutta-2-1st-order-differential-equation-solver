@@ -1,0 +1,12 @@
+name = "rk2"
+description = "Runge Kutta 2 method for numerically solving differential equations"
+version = "0.1.0-dev"
+
+authors = ["Vladyslav"]
+maintainers = ["Vladyslav <vvasilache97@gmail.com>"]
+maintainers-logins = ["Yasato-el"]
+licenses = "MIT"
+website = ""
+tags = ["diffequations", "equations", "calculus", "rk2", "modifiedeuler", "improvedeuler"]
+
+executables = ["rk2"]
